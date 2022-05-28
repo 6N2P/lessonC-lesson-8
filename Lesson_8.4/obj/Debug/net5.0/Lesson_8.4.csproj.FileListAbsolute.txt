@@ -1,0 +1,16 @@
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\bin\Debug\net5.0\Lesson_8.4.exe
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\bin\Debug\net5.0\Lesson_8.4.deps.json
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\bin\Debug\net5.0\Lesson_8.4.runtimeconfig.json
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\bin\Debug\net5.0\Lesson_8.4.runtimeconfig.dev.json
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\bin\Debug\net5.0\Lesson_8.4.dll
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\bin\Debug\net5.0\ref\Lesson_8.4.dll
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\bin\Debug\net5.0\Lesson_8.4.pdb
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\obj\Debug\net5.0\Lesson_8.4.csproj.AssemblyReference.cache
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\obj\Debug\net5.0\Lesson_8.4.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\obj\Debug\net5.0\Lesson_8.4.AssemblyInfoInputs.cache
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\obj\Debug\net5.0\Lesson_8.4.AssemblyInfo.cs
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\obj\Debug\net5.0\Lesson_8.4.csproj.CoreCompileInputs.cache
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\obj\Debug\net5.0\Lesson_8.4.dll
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\obj\Debug\net5.0\ref\Lesson_8.4.dll
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\obj\Debug\net5.0\Lesson_8.4.pdb
+H:\C#lesson\Lesson_8\Lesson_8\Lesson_8.4\obj\Debug\net5.0\Lesson_8.4.genruntimeconfig.cache
